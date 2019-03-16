@@ -3,7 +3,8 @@
     "pages/index/index",
     "pages/logs/logs",
     "pages/posts/post",
-    "pages/posts/post-detail/post-detail"
+    "pages/posts/post-detail/post-detail",
+    "pages/movies/movie"
   ],
   "window":{
     "navigationBarBackgroundColor": "#405f80"
@@ -19,8 +20,8 @@
         "selectedIconPath": "images/tab/yuedu_hl.png"
       },
       {
-        "pagePath": "pages/logs/logs",
-        "text": "logs",
+        "pagePath": "pages/movies/movie",
+        "text": "电影",
         "iconPath": "images/tab/dianying.png",
         "selectedIconPath": "images/tab/dianying_hl.png"
       }

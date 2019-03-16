@@ -99,6 +99,7 @@
   margin-left: 30rpx;
   margin-top: 20rpx;
   margin-right: 30rpx;
+  padding-bottom: 50rpx;
   line-height: 44rpx;
   letter-spacing: 2px;
 }
